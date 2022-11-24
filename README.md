@@ -1,18 +1,6 @@
 # weed_detection
 
-A new Flutter project.
+Flutter app that communicates with tflite File by sending image file and get the prediction result that holding Label name and Accuracy 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # weed_predictor
 # weed_predictor
